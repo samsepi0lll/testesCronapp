@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.class54515563",
+  "displayName": "54515563",
+  "version": "1.0.0",
+  "description": "54515563",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}
